@@ -9,3 +9,14 @@ D:\MyFiles\EPAM_lerning\Game\ConsoleGame\ConsoleGame\obj\Debug\netcoreapp3.1\Con
 D:\MyFiles\EPAM_lerning\Game\ConsoleGame\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.AssemblyInfo.cs
 D:\MyFiles\EPAM_lerning\Game\ConsoleGame\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.dll
 D:\MyFiles\EPAM_lerning\Game\ConsoleGame\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.pdb
+E:\EPAM_lerning\Game\ConsoleGame\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.exe
+E:\EPAM_lerning\Game\ConsoleGame\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.deps.json
+E:\EPAM_lerning\Game\ConsoleGame\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.runtimeconfig.json
+E:\EPAM_lerning\Game\ConsoleGame\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.runtimeconfig.dev.json
+E:\EPAM_lerning\Game\ConsoleGame\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.dll
+E:\EPAM_lerning\Game\ConsoleGame\ConsoleGame\bin\Debug\netcoreapp3.1\ConsoleGame.pdb
+E:\EPAM_lerning\Game\ConsoleGame\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.csprojAssemblyReference.cache
+E:\EPAM_lerning\Game\ConsoleGame\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.AssemblyInfoInputs.cache
+E:\EPAM_lerning\Game\ConsoleGame\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.AssemblyInfo.cs
+E:\EPAM_lerning\Game\ConsoleGame\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.dll
+E:\EPAM_lerning\Game\ConsoleGame\ConsoleGame\obj\Debug\netcoreapp3.1\ConsoleGame.pdb

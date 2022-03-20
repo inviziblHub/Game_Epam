@@ -7,10 +7,12 @@ namespace ConsoleGame
     partial class Player
     {
         
-        public PlayerName Name { get;  private set; }
+        public PlayerName Name { get; set; }
         
         public int CountStep { get; set; }
         public int RezultSquare { get; set; }
+        public int Cube1 { get; set; }
+        public int Cube2 { get; set; }
 
         //public Player()
         //{
@@ -25,6 +27,7 @@ namespace ConsoleGame
             CountStep = countStep;
             RezultSquare = 0;
             Console.CursorVisible = false;
+
         }
 
     }

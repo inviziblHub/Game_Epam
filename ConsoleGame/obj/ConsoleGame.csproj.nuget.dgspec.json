@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyFiles\\EPAM_lerning\\Game\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj": {}
+    "E:\\EPAM_lerning\\Game\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj": {}
   },
   "projects": {
-    "D:\\MyFiles\\EPAM_lerning\\Game\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj": {
+    "E:\\EPAM_lerning\\Game\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyFiles\\EPAM_lerning\\Game\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj",
+        "projectUniqueName": "E:\\EPAM_lerning\\Game\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj",
         "projectName": "ConsoleGame",
-        "projectPath": "D:\\MyFiles\\EPAM_lerning\\Game\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\MyFiles\\EPAM_lerning\\Game\\ConsoleGame\\ConsoleGame\\obj\\",
+        "projectPath": "E:\\EPAM_lerning\\Game\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj",
+        "packagesPath": "C:\\Users\\pip\\.nuget\\packages\\",
+        "outputPath": "E:\\EPAM_lerning\\Game\\ConsoleGame\\ConsoleGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pip\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
