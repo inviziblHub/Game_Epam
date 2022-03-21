@@ -34,7 +34,7 @@ namespace ConsoleGame
                     try
                     {
                         //stepGame = startStepGame
-                        if (startStepGame < 4)
+                        if (startStepGame < 20)
                             throw new ArgumentException("Количество ходов не может быть меньше 20 !"); ;
                         stepGame = startStepGame;
                         enteryStartStep = true;
